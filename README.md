@@ -19,4 +19,5 @@
 <div> 
   <a href="https://instagram.com/leen__zz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "leomaciel279@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/leonardo-maciel-97a4742b1/"><img src="https://img.shields.io/badge/-Linkedin-%05258f?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
